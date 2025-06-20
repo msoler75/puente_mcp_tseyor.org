@@ -53,7 +53,7 @@ El objetivo de este puente es facilitar el acceso a los recursos, herramientas y
 3. **Configura las variables de entorno:**
    Crea un archivo `.env` en la raíz del proyecto con el siguiente contenido (ajusta el token y la URL si es necesario):
    ```env
-   MCP_SERVER_URL=http://localhost/mcp
+   MCP_SERVER_URL=https://tseyor.org/mcp
    MCP_TOKEN=TU_TOKEN_MCP
    ```
 
